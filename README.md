@@ -1,15 +1,15 @@
 # Storytelling-Case-Study-Airbnb-NYC
 
-💡 1. Overview with a Powerful Hook (Why Does This Matter?) 
+💡 1. Overview with a Powerful Hook  
 
 "Imagine you're an Airbnb host in NYC, struggling to price your listing. Charge too high, and you lose bookings; too low, and you leave money on the table. My analysis was designed to solve this exact problem—helping hosts maximize revenue using data-driven insights."
 ________________________________________
-🔍 2. Define the Problem Clearly (What Were You Solving?)
+🔍 2. Defining the Problem  
 
 •	Business Challenge: "NYC has thousands of Airbnb listings with varying prices, demand, and occupancy rates. Many hosts fail to optimize pricing, leading to lost revenue."
 •	Objective: "I set out to analyze Airbnb data to uncover key pricing drivers, demand fluctuations, and borough-wise trends to help hosts make informed decisions."
 ________________________________________
-🛠️ 3. Explain Your Approach (How Did You Solve It?)
+🛠️ 3. Explaining Approach 
 
 •	Data Collection & Cleaning:
 ✔ "I worked with Airbnb’s dataset, handling missing values using mean imputation for price gaps and mode imputation for categorical data."
@@ -23,7 +23,7 @@ ________________________________________
 ✔ "I created an interactive Tableau dashboard showing pricing heatmaps across boroughs."
 ✔ "A regression analysis revealed that ratings, room type, and location were the top 3 predictors of price."
 ________________________________________
-📊 4. Highlight Key Insights (What Did You Discover?)
+📊 4. Highlighting Key Insights
 🚀 Actionable Findings for Hosts & Investors:
 
 1️⃣ Pricing Sweet Spot: "Listings priced between $100-$150 in Brooklyn had 20% higher occupancy than similar listings in Manhattan."
@@ -41,7 +41,7 @@ ________________________________________
 
 🔥 For Airbnb Itself: "Implement better dynamic pricing algorithms to increase platform-wide revenue."
 ________________________________________
-🚧 6. Challenges  (Showing Your Problem-Solving Skills!)
+🚧 6. Challenges  (Showing Problem-Solving Skills!)
 ❌ Issue: "Raw data had missing values in price & availability_365 columns."
 ✅ Solution: "I used mean imputation & median interpolation to fill gaps while preserving data integrity."
 
